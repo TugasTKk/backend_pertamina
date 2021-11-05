@@ -1,0 +1,42 @@
+[31-Oct-2021 21:36:15 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/ianfelix/public_html/pertamina/vendor/composer/platform_check.php on line 24
+[31-Oct-2021 21:36:43 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/ianfelix/public_html/pertamina/vendor/composer/platform_check.php on line 24
+[31-Oct-2021 21:38:32 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/ianfelix/public_html/pertamina/vendor/composer/platform_check.php on line 24
+[31-Oct-2021 21:38:33 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/ianfelix/public_html/pertamina/vendor/composer/platform_check.php on line 24
+[31-Oct-2021 21:41:46 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/ianfelix/public_html/pertamina/vendor/composer/platform_check.php on line 24
+[31-Oct-2021 21:41:48 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/ianfelix/public_html/pertamina/vendor/composer/platform_check.php on line 24
+[31-Oct-2021 21:42:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/src/Utils.php:85
+Stack trace:
+#0 /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/src/Utils.php(117): Kint\Utils::composerGetExtras()
+#1 /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/init.php(54): Kint\Utils::composerSkipFlags()
+#2 /home/ianfelix/public_html/pertamina/vendor/composer/autoload_real.php(71): require('/home/ianfelix/...')
+#3 /home/ianfelix/public_html/pertamina/vendor/composer/autoload_real.php(61): composerRequire80592cb5f70157ad8f9b020ce360061b('3917c79c5052b27...', '/home/ianfelix/...')
+#4 /home/ianfelix/public_html/pertamina/vendor/autoload.php(7): ComposerAutoloaderInit80592cb5f70157ad8f9b020ce360061b::getLoader()
+#5 /home/ianfelix/public_html/pertamina/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(307): include('/home/ianfelix/...')
+#6 /home/ianfelix/public_html/pertamina/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(10 in /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/src/Utils.php on line 85
+[31-Oct-2021 21:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/src/Utils.php:85
+Stack trace:
+#0 /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/src/Utils.php(117): Kint\Utils::composerGetExtras()
+#1 /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/init.php(54): Kint\Utils::composerSkipFlags()
+#2 /home/ianfelix/public_html/pertamina/vendor/composer/autoload_real.php(71): require('/home/ianfelix/...')
+#3 /home/ianfelix/public_html/pertamina/vendor/composer/autoload_real.php(61): composerRequire80592cb5f70157ad8f9b020ce360061b('3917c79c5052b27...', '/home/ianfelix/...')
+#4 /home/ianfelix/public_html/pertamina/vendor/autoload.php(7): ComposerAutoloaderInit80592cb5f70157ad8f9b020ce360061b::getLoader()
+#5 /home/ianfelix/public_html/pertamina/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(307): include('/home/ianfelix/...')
+#6 /home/ianfelix/public_html/pertamina/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(10 in /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/src/Utils.php on line 85
+[31-Oct-2021 21:42:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/src/Utils.php:85
+Stack trace:
+#0 /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/src/Utils.php(117): Kint\Utils::composerGetExtras()
+#1 /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/init.php(54): Kint\Utils::composerSkipFlags()
+#2 /home/ianfelix/public_html/pertamina/vendor/composer/autoload_real.php(71): require('/home/ianfelix/...')
+#3 /home/ianfelix/public_html/pertamina/vendor/composer/autoload_real.php(61): composerRequire80592cb5f70157ad8f9b020ce360061b('3917c79c5052b27...', '/home/ianfelix/...')
+#4 /home/ianfelix/public_html/pertamina/vendor/autoload.php(7): ComposerAutoloaderInit80592cb5f70157ad8f9b020ce360061b::getLoader()
+#5 /home/ianfelix/public_html/pertamina/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(307): include('/home/ianfelix/...')
+#6 /home/ianfelix/public_html/pertamina/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(10 in /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/src/Utils.php on line 85
+[31-Oct-2021 21:42:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/src/Utils.php:85
+Stack trace:
+#0 /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/src/Utils.php(117): Kint\Utils::composerGetExtras()
+#1 /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/init.php(54): Kint\Utils::composerSkipFlags()
+#2 /home/ianfelix/public_html/pertamina/vendor/composer/autoload_real.php(71): require('/home/ianfelix/...')
+#3 /home/ianfelix/public_html/pertamina/vendor/composer/autoload_real.php(61): composerRequire80592cb5f70157ad8f9b020ce360061b('3917c79c5052b27...', '/home/ianfelix/...')
+#4 /home/ianfelix/public_html/pertamina/vendor/autoload.php(7): ComposerAutoloaderInit80592cb5f70157ad8f9b020ce360061b::getLoader()
+#5 /home/ianfelix/public_html/pertamina/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(307): include('/home/ianfelix/...')
+#6 /home/ianfelix/public_html/pertamina/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(10 in /home/ianfelix/public_html/pertamina/vendor/kint-php/kint/src/Utils.php on line 85
